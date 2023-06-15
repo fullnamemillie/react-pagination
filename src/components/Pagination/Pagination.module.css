@@ -1,0 +1,17 @@
+.pageGroup {
+    list-style-type: none;
+    display: flex;
+
+}
+
+.pageItem {
+    margin-right: 2px;
+    padding: 2px 5px;
+    border: 2px solid gray;
+}
+
+.pageItem a {
+    text-decoration: none;
+    color: black;
+
+}

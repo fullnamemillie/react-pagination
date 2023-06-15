@@ -1,0 +1,21 @@
+.listGroup {
+    margin: 0 auto;
+    padding: 0;
+    width: 500px;
+}
+
+.listItem {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    font-size: 20px;
+    border: 2px solid gray;
+    margin-bottom: 2px;
+    padding:  10px;
+}
+
+.img {
+    width: 20px;
+    height: 12px;
+}
